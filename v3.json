@@ -12,7 +12,7 @@
         },
         "image": {
             "type": "string",
-            "description": "https://raw.githubusercontent.com/burgernft/nft_assets/master/DAI-4.png"
+            "description": "https://raw.githubusercontent.com/DINOTOKEN/bootstrap/main/base.jpg"
         }
     }
 }
